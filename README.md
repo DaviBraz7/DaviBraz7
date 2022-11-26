@@ -2,7 +2,7 @@
 - 👀 I’m interested in growing professionally
 - 🌱 I’m currently learning Csharp/dotNET
 - 📫 How to reach me ...
-- Email:davisouzabraz@gmail.com
+- Email: davisouzabraz@gmail.com
 - Linkedin: https://www.linkedin.com/in/davi-braz-b306a81a2
 
 <!---
