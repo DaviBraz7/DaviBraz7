@@ -1,12 +1,12 @@
-## 👋 Hi, I’m @DaviBraz7
-- 👀 I’m interested in growing professionally
-- 🌱 I’m currently learning Csharp/dotNET
-- 📫 How to reach me ...
+## 👋 Olá!!! Eu sou o @DaviBraz7
+- 👀 Atualmente Cursando ADS(Analise e Desenvolvimento de Sistemas)
+- 🌱 Estudando Csharp/dotNET
+- 📫 Contatos ...
 - Email: davisouzabraz@gmail.com
 - Linkedin: https://www.linkedin.com/in/davi-braz-b306a81a2
 
 <div>
   <a href="https://github.com/DaviBraz7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBraz7&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBraz7&show_icons=true&theme=default#gh-light-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviBraz7&&layout=compact"/>
 </div>
