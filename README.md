@@ -5,8 +5,7 @@
 - Email: davisouzabraz@gmail.com
 - Linkedin: https://www.linkedin.com/in/davi-braz-b306a81a2
 
-<!---
-DaviBraz7/DaviBraz7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
+<div>
+  <a href="https://github.com/DaviBraz7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBraz7"/>
+</div>
