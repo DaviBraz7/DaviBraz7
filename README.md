@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaviBraz7
+## 👋 Hi, I’m @DaviBraz7
 - 👀 I’m interested in growing professionally
 - 🌱 I’m currently learning Csharp/dotNET
 - 📫 How to reach me ...
@@ -7,5 +7,5 @@
 
 <div>
   <a href="https://github.com/DaviBraz7">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBraz7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviBraz7&show_icons=true&theme=dracula"/>
 </div>
