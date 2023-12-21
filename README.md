@@ -1,5 +1,4 @@
 ## 👋 Olá!!! Eu sou o @DaviBraz7
-- 👀 Atualmente Cursando ADS(Analise e Desenvolvimento de Sistemas)
 - 🌱 Estudando Csharp/dotNET
 - 📫 Contatos ...
 - Email: davisouzabraz@gmail.com
